@@ -1,5 +1,5 @@
 ---
-layout:post 
+layout: post 
 title: Organizing your data science project 
 ---
 
