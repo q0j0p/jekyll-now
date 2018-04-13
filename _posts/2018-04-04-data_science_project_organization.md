@@ -1,6 +1,6 @@
 ---
 layout: post 
-title: Organizing your data science project 
+title: Structuring your data science project
 ---
 # Data science project organization 
 What's the best way to organize data science projects? 
