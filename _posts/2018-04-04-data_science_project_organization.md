@@ -1,8 +1,8 @@
 ---
 layout: post 
-title: Structuring your data science project
+title: Data science project organization 
 ---
-# Data science project organization 
+
 What's the best way to organize data science projects? 
 ### Repository structure
 - <https://medium.com/outlier-bio-blog/a-quick-guide-to-organizing-data-science-projects-updated-for-2016-4cbb1e6dac71>
