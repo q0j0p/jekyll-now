@@ -6,7 +6,7 @@ title: Organizing your data science project
 # Data science project organization 
 What's the best way to organize data science projects? 
 ### Repository structure
-- https://medium.com/outlier-bio-blog/a-quick-guide-to-organizing-data-science-projects-updated-for-2016-4cbb1e6dac71
+- <https://medium.com/outlier-bio-blog/a-quick-guide-to-organizing-data-science-projects-updated-for-2016-4cbb1e6dac71>
 - https://drivendata.github.io/cookiecutter-data-science/#directory-structure  
 - http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000424
 - https://drivendata.github.io/cookiecutter-data-science/#directory-structure
