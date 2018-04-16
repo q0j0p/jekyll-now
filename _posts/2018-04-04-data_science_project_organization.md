@@ -1,9 +1,10 @@
 ---
-layout: post
-title: Organizing your data science project
+layout: post 
+title: Data science project organization 
 ---
-# Data science project organization
 What's the best way to organize data science projects?  I have implemented the following.  
+
+# References
 ### Repository structure
 ```
 .
