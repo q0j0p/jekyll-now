@@ -25,8 +25,10 @@ Use of AWS S3 as mainstay storage
 ## Coding best practices
 - LowClass Python: Style guide for data scientists (<http://columbia-applied-data-science.github.io/pages/lowclass-python-style-guide.html>)
 
-### unit testing
+### debugging, testing, refactoring of code
 - pytest (<https://docs.pytest.org/en/latest/>)
+- `pdb` [cheatsheet]('resources/pdb-cheatsheet.pdf')
+
 ### Documentation  
 - Sphinx  <https://thomas-cokelaer.info/tutorials/sphinx/index.html>  
   - Google examples <http://sphinxcontrib-napoleon.readthedocs.io/en/latest/example_google.html>  
