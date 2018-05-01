@@ -2,7 +2,7 @@
 layout: post
 title: Data science project organization
 ---
-What's the best way to organize data science projects?  I have implemented the following.  
+What's the best way to organize data science projects?  I use the following structure.  
 
 
 ### Repository structure
