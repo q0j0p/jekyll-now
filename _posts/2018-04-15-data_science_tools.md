@@ -2,10 +2,10 @@
 layout: post
 title:  Go-to references for key components of data science
 ---
-
+These are the sources I used to implement best practices in data science.
 
 ### Data storage format options
-What's an efficient way to store derived data, features, parameters?
+What's an efficient way to store derived data, features, parameters when creating models?
 
 #### Best practices and format comparisions
 - <https://stackoverflow.com/questions/14262433/large-data-work-flows-using-pandas?noredirect=1&lq=1>  
