@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Go-to references for key components of data science
+title:  Go-to references for data science tools and concepts
 ---
 These are the sources I used to implement best practices in data science.
 
@@ -17,19 +17,32 @@ What's an efficient way to store derived data, features, parameters when creatin
 #### Pandas and mongodb
 - <http://blog.cloudera.com/blog/2016/03/feather-a-fast-on-disk-format-for-data-frames-for-r-and-python-powered-by-apache-arrow/>  
 
-Use of AWS S3 as mainstay storage
+#### HDF5
+- [The python HDF5 ecosystem](https://www.hdfgroup.org/2015/09/python-hdf5-a-vision/)
+- HDF5 take 2 - h5py & PyTables | SciPy 2017 Tutorial | Tom Kooij (https://www.youtube.com/watch?v=ofLFhQ9yxCw)
+
+
+#### Organizing files in HDFS (https://www.linkedin.com/learning/hadoop-for-data-science-tips-tricks-techniques/organize-files-in-hdfs)
+
+#### AWS
 
 ### Workflow pipepline
 - luigi (<http://luigi.readthedocs.io/en/stable/workflows.html>)
 
-## Coding best practices
+### Coding best practices
 - LowClass Python: Style guide for data scientists (<http://columbia-applied-data-science.github.io/pages/lowclass-python-style-guide.html>)
 
 ### debugging, testing, refactoring of code
 - pytest (<https://docs.pytest.org/en/latest/>)
-- `pdb` [cheatsheet]('resources/pdb-cheatsheet.pdf')
+- `pdb` (https://dgkim5360.github.io/blog/python/2017/10/a-cheatsheet-for-python-pdb-debugger/)
+  - [cheatsheet]('resources/pdb-cheatsheet.pdf')
 
-### Documentation  
+### Virtual environments, requirements, containers
+- conda env
+- pip freeze (https://pip.pypa.io/en/stable/reference/pip_freeze/)
+-
+
+### Code Documentation  
 - Sphinx  <https://thomas-cokelaer.info/tutorials/sphinx/index.html>  
   - Google examples <http://sphinxcontrib-napoleon.readthedocs.io/en/latest/example_google.html>  
 - PEP257:Python docstring example <http://blog.dolphm.com/pep257-good-python-docstrings-by-example/>
