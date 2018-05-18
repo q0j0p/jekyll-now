@@ -9,14 +9,15 @@ What's the best way to organize data science projects?  I use the following stru
 ```
 .
 ├── data           : processed data, versioned
-├── docs          : communicable notes for the project
+├── docs           : communicable notes for the project
 │   └── blog       : linked to _posts
 ├── raw            : files in this directory are shared as necessary
 │   ├── data       : original data, treated as immutable
-│   ├── docs      : taken throughout the course of the project, ordered by date
+│   ├── docs       : "lab notes" throughout the course of the project, ordered by date
 │   └── resources  : all resources pertaining to the project
 ├── results        : output of analysis or models
 └── src            : all code for the project
+    └── scripts    : scripts used in experiments, usually a staging ground for integration
 ```
 
 ## References
