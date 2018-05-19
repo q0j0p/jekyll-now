@@ -6,13 +6,13 @@ title:  References for linux-python-data science stack
 ## Python Open Data Stack
 
 - Pydata (<https://pydata.org/downloads.html>)
- - Anaconda
- - IPython
- - Matplotlib
- - Numpy
- - SciPy
- - Pandas
- - Scikit-learn
+  - Anaconda
+  - IPython
+  - Matplotlib
+  - Numpy
+  - SciPy
+  - Pandas
+  - Scikit-learn
 
 
 ## Big Data
