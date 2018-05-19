@@ -10,4 +10,4 @@ permalink: /about/
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[craicster@gmail.com](mailto:craicster@gmail.com)
