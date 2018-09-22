@@ -36,7 +36,7 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: bold;
 
   line-height: 1.0;
-  margin: 1em 0 10px;
+  margin: 1em 0 5px;
   padding: 0;
 
   @include mobile {
@@ -78,8 +78,8 @@ a {
 }
 
 ul, ol {
-  margin: 15px 0;
-  padding-left: 30px;
+  margin: 10px 0;
+  padding-left: 15px;
 }
 
 ul {
