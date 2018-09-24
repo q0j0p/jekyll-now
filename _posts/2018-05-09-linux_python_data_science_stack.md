@@ -2,7 +2,7 @@
 layout: post
 title:  References for linux-python-data science stack
 ---
-
+References for open source resources in my Python toolkit. 
 ## Python Open Data Stack
 
 - Pydata (<https://pydata.org/downloads.html>)
