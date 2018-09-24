@@ -39,7 +39,7 @@ What's an efficient way to store derived data, features, parameters when creatin
 
 ### Virtual environments, requirements, containers
 - conda env  
-- pip freeze (https://pip.pypa.io/en/stable/reference/pip_freeze/)  
+- pip freeze (<https://pip.pypa.io/en/stable/reference/pip_freeze/>)  
 
 ### Code Documentation  
 - Sphinx  <https://thomas-cokelaer.info/tutorials/sphinx/index.html>  
