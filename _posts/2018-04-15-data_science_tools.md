@@ -22,7 +22,7 @@ What's an efficient way to store derived data, features, parameters when creatin
 - HDF5 take 2 - h5py & PyTables | SciPy 2017 Tutorial | Tom Kooij (https://www.youtube.com/watch?v=ofLFhQ9yxCw)
 
 
-#### Organizing files in HDFS (https://www.linkedin.com/learning/hadoop-for-data-science-tips-tricks-techniques/organize-files-in-hdfs)
+#### Organizing files in HDFS (<https://www.linkedin.com/learning/hadoop-for-data-science-tips-tricks-techniques/organize-files-in-hdfs>)
 
 #### AWS
 
@@ -34,7 +34,7 @@ What's an efficient way to store derived data, features, parameters when creatin
 
 ### debugging, testing, refactoring of code
 - pytest (<https://docs.pytest.org/en/latest/>)
-- `pdb` (https://dgkim5360.github.io/blog/python/2017/10/a-cheatsheet-for-python-pdb-debugger/)
+- `pdb` (<https://dgkim5360.github.io/blog/python/2017/10/a-cheatsheet-for-python-pdb-debugger/>)
   - [cheatsheet]('resources/pdb-cheatsheet.pdf')
 
 ### Virtual environments, requirements, containers
