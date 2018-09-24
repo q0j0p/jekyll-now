@@ -2,7 +2,7 @@
 layout: post
 title:  Go-to references for data science tools and concepts
 ---
-These are the sources I used to implement best practices in data science.
+These are the sources I use to implement best practices in data science.
 
 ### Data storage format options
 What's an efficient way to store derived data, features, parameters when creating models?
