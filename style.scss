@@ -72,6 +72,7 @@ p {
 a {
   color: $blue;
 	cursor: pointer;
+  text-decoration: none;  
   &:hover, &:active {
     color: $blue;
   }
@@ -227,7 +228,6 @@ nav {
     margin-left: 20px;
     color: $darkGray;
     text-align: right;
-    text-decoration: none;
 
     letter-spacing: 1px;
 
