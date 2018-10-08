@@ -9,5 +9,6 @@ title:  Data science projects
 - Text classification using language model transfer learning  
 
 - Implementation of new algorithms for the classification of neuron morphology
+  - hierarchical clustering
   - [repo](https://q0j0p.github.io/aibs)  
--
+  - 
