@@ -31,7 +31,7 @@ What's an efficient way to store derived data, features, parameters when creatin
 
 ### Coding best practices
 - LowClass Python: Style guide for data scientists (<http://columbia-applied-data-science.github.io/pages/lowclass-python-style-guide.html>)
-- **[Intermediate and advanced software carpentry](https://intermediate-and-advanced-software-carpentry.readthedocs.io/en/latest/structuring-python.html)**
+- **[Intermediate and advanced software carpentry](https://intermediate-and-advanced-software-carpentry.readthedocs.io/en/latest/structuring-python.html)**  
 ### debugging, testing, refactoring of code
 - pytest (<https://docs.pytest.org/en/latest/>)
 - `pdb` (<https://dgkim5360.github.io/blog/python/2017/10/a-cheatsheet-for-python-pdb-debugger/>)
