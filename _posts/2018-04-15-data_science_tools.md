@@ -45,5 +45,5 @@ What's an efficient way to store derived data, features, parameters when creatin
 ### Code Documentation  
 - Sphinx  <https://thomas-cokelaer.info/tutorials/sphinx/index.html>  
   - Google examples <http://sphinxcontrib-napoleon.readthedocs.io/en/latest/example_google.html>  
-- PEP257:Python docstring example <http://blog.dolphm.com/pep257-good-python-docstrings-by-example/>
+- [PEP257](https://www.python.org/dev/peps/pep-0257/):Python docstring example <http://blog.dolphm.com/pep257-good-python-docstrings-by-example/>
 - doctest (<https://docs.python.org/3/library/doctest.html>)
