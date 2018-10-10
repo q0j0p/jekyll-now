@@ -11,11 +11,11 @@ Standards are the core-competencies of data scientists - the knowledge, skills, 
 ### Standards by Topic  
 
 1. Python  
-  1. Explain the difference between mutable and immutable types and their relationship to dictionaries.
-  2. Compare the strengths and weaknesses of lists vs. dictionaries.
-  3. Choose the appropriate collection (dict, Counter, defaultdict) to simplify a problem.
-  4. Compare the strengths and weaknesses of lists vs. generators.
-  5. Write pythonic code.  
+    1. Explain the difference between mutable and immutable types and their relationship to dictionaries.
+    2. Compare the strengths and weaknesses of lists vs. dictionaries.
+    3. Choose the appropriate collection (dict, Counter, defaultdict) to simplify a problem.
+    4. Compare the strengths and weaknesses of lists vs. generators.
+    5. Write pythonic code.  
 
 2. Version Control / Git  
   1. Explain the basic function and purpose of version control.
