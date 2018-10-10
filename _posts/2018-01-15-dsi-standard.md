@@ -11,33 +11,33 @@ Standards are the core-competencies of data scientists - the knowledge, skills, 
 ### Standards by Topic  
 
 1. Python  
-    1. Explain the difference between mutable and immutable types and their relationship to dictionaries.
-    2. Compare the strengths and weaknesses of lists vs. dictionaries.
-    3. Choose the appropriate collection (dict, Counter, defaultdict) to simplify a problem.
-    4. Compare the strengths and weaknesses of lists vs. generators.
+    1. Explain the difference between mutable and immutable types and their relationship to dictionaries.  
+    2. Compare the strengths and weaknesses of lists vs. dictionaries.  
+    3. Choose the appropriate collection (dict, Counter, defaultdict) to simplify a problem.  
+    4. Compare the strengths and weaknesses of lists vs. generators.  
     5. Write pythonic code.  
 
 2. Version Control / Git  
-  1. Explain the basic function and purpose of version control.
-  2. Use a basic Git workflow to track project changes over time, share code, and write useful commit messages.
+  1. Explain the basic function and purpose of version control.  
+  2. Use a basic Git workflow to track project changes over time, share code, and write useful commit messages.  
 
 3. OOP  
-  1. Given the code for a python class, instantiate a python object and call the methods and list the attributes.
-  2. Write the python code for a simple class.
-  3. Match key “magic” methods to their functionality.
-  4. Design a program or algorithm in object oriented fashion.
-  5. Compare and contrast functional and object oriented programming.
+  1. Given the code for a python class, instantiate a python object and call the methods and list the attributes.  
+  2. Write the python code for a simple class.  
+  3. Match key “magic” methods to their functionality.  
+  4. Design a program or algorithm in object oriented fashion.  
+  5. Compare and contrast functional and object oriented programming.  
 
 4. SQL  
-  1. Connect to a SQL database via command line (i.e. Postgres).
-  2. Connect to a database from within a python program.
-  3. State function of basic SQL commands.
-  4. Write simple queries on a single table including SELECT, FROM, WHERE, CASE clauses and aggregates.
-  5. Write complex queries including JOINS and subqueries.
-  6. Explain how indexing works in Postgres.
-  7. Create and dump tables.
-  8. Format a query to follow a standard style.
-  9. Move data from SQL database to text file.
+  1. Connect to a SQL database via command line (i.e. Postgres).  
+  2. Connect to a database from within a python program.  
+  3. State function of basic SQL commands.  
+  4. Write simple queries on a single table including SELECT, FROM, WHERE, CASE clauses and aggregates.  
+  5. Write complex queries including JOINS and subqueries.  
+  6. Explain how indexing works in Postgres.  
+  7. Create and dump tables.  
+  8. Format a query to follow a standard style.  
+  9. Move data from SQL database to text file.  
 
 5. Pandas  
   1. Explain/use the relationship between DataFrame and Series
